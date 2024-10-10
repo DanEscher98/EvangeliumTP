@@ -1,7 +1,7 @@
-site_name: MkBookTemplate
+site_name: EvangeliumTP
 site_author: Danyiel Colin
-repo_name: DanEscher98/MkBookTemplate
-repo_url: https://github.com/DanEscher98/MkBookTemplate
+repo_name: DanEscher98/EvangeliumTP
+repo_url: https://github.com/DanEscher98/EvangeliumTP
 copyright: Copyright &copy; 2020 - 2023 Danyiel Colin
 docs_dir: pages
 site_description: >-
